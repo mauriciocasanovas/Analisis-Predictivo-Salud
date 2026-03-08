@@ -1,4 +1,4 @@
-ANALISIS PREDICTIVO DE SALUD - DETECCION EPIDURAL
+DETECCIÓN AUTOMATIZADA DE RIESGO DE FIEBRE EPIDURAL MEDIANTE ANÁLISIS PREDICTIVO
 
 DESCRIPCION:
 Este proyecto nace de la necesidad de transformar datos clinicos complejos 
@@ -45,3 +45,4 @@ VALOR AGREGADO:
   y correlacion de temperatura) antes de complicaciones clinicas.
 - Reportabilidad Profesional: Entrega de reportes estilizados directamente 
   desde el codigo, optimizando el tiempo de interpretacion medica.
+
